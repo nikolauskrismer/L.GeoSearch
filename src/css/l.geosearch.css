@@ -17,7 +17,7 @@
 }
 
 .leaflet-control-geosearch-btn {
-    background:  url('/isochrones/img_new/geosearch.png') no-repeat scroll center center #72FE4D;
+    background:  url('/isochrones/img/geosearch.png') no-repeat scroll center center #72FE4D;
     background-size: auto 100%;
 	border: 0px none;
     border-radius: 0px 5px 5px 0px;
